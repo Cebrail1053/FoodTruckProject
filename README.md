@@ -1,5 +1,5 @@
 # Food Truck Project
-- This program creates up to five food truck objects that a user
+This program creates up to five food truck objects that a user
 can rate. The program allows for different information of the food
 trucks to be display based on the user's menu selection.
 
